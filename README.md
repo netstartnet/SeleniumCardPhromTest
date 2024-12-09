@@ -1,1 +1,1 @@
-.github/workflows/gradle.yml
+[![Java CI with Gradle](https://github.com/netstartnet/SeleniumCardPhromTest/actions/workflows/gradle.yml/badge.svg)](https://github.com/netstartnet/SeleniumCardPhromTest/actions/workflows/gradle.yml)
